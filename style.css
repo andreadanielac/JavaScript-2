@@ -1,0 +1,18 @@
+body {
+    color: #fc8524;
+    background-color: #273749;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+button{
+    background-color: #fc8524;
+    color: #273749;
+    font-size: 20px;
+
+}
+p{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
